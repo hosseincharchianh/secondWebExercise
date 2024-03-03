@@ -53,3 +53,8 @@ nav {
     border: black outset 2px;
     font-size: larger;
 }
+#bottons:hover{
+    background-color: black;
+    border: gray outset 2px;
+    color: antiquewhite;
+}
